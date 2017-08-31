@@ -4,7 +4,7 @@
 
 ----
 ### Settle
-Merchant can use this method to settle the transaction.
+User can use this method to settle the transaction.
 
 -**Payload**:
 
